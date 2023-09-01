@@ -36,7 +36,7 @@ To compile and run the MineField simulation, you need a C compiler (e.g. GCC) in
 1. Clone this repository to your local machine.
 2. Open a terminal or command prompt.
 3. Navigate to the project directory.
-4. Run the following script to start the game: dz1.c
+4. Compile the code using a C compiler (e.g., GCC)
 5. Follow the on-screen instructions to create nodes, establish links, perform other operations on the graph and much more.
 
 ### Menu Options
