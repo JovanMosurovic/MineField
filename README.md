@@ -13,7 +13,7 @@ This is a C program for analyzing a graph representing a minefield. The program 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
-- [Menu Options](#menu-options)
+  - [Menu Options](#menu-options)
 - [File Format](#file-format)
 
 
