@@ -2,8 +2,10 @@
 
 This is a C program for analyzing a graph representing a minefield. The program allows you to perform various operations on the graph, including adding and removing nodes (mines), adding and removing edges (connections between mines), performing depth-first searches (DFS) on the graph, calculating the effectiveness of a given mine, finding the most effective mines, and calculating the area covered by explosions from the most effective mine.
 
+> My primary goals in developing this minefield project were to create an efficient graph representation for mines, implement a flexible DFS traversal, calculate and display mine effectiveness, identify the most effective mines, calculate area coverage by explosions, and enable graph visualization for enhanced minefield analysis.
+> 
 > This project was developed as the third university assignment for "Algorithms and Data Structures", University of Belgrade School of Electrical Engineering majoring Software Engineering. Please refer to the [instructions.pdf](instructions.pdf) file for detailed assignment instructions.
->
+
 
 ## Table of Contents
 
