@@ -1,3 +1,0 @@
-E:/FAKS/Drugi semestar/ASP/Domaci/Domaci_3/cmake-build-debug/CMakeFiles/Domaci_3.dir
-E:/FAKS/Drugi semestar/ASP/Domaci/Domaci_3/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/FAKS/Drugi semestar/ASP/Domaci/Domaci_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
